@@ -103,6 +103,8 @@ class ArrayADT
         }
     }
 };
+//for testing perpose main function was make we only need to understand ArrayAdt class only
+/*
 int main()
 {
     class ArrayADT<int> arr;
@@ -125,5 +127,6 @@ int main()
        cout<<"\n Ur item After searching is :"<<arr.Search(3);
        arr.Delete(1);
        arr.view();
- return 0;        
+ return 0; 
+ */       
 }
